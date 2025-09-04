@@ -91,3 +91,27 @@ Economists sometimes:
   - **Normative reasoning** to decide which outcomes are most desirable.  
 
 ---
+## 🖼️ Mermaid Diagram  
+
+```mermaid
+flowchart TD
+    A[Economics] --> B[Positive Economics]
+    A --> C[Normative Economics]
+
+    B --> B1["Describes 'What Is'"]
+    B --> B2["Based on Facts & Data"]
+    B --> B3["Testable & Objective"]
+
+    C --> C1["Prescribes 'What Ought to Be'"]
+    C --> C2["Based on Values & Ethics"]
+    C --> C3["Subjective & Opinion-Based"]
+
+    B1 --> D[Policy Decisions]
+    C1 --> D
+    B2 --> D
+    C2 --> D
+    B3 --> D
+    C3 --> D
+
+    D["Effective Policy = Blend of Positive + Normative Economics"]
+```

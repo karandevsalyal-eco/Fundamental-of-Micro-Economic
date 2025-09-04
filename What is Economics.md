@@ -47,3 +47,19 @@ Because of scarcity, we **cannot have everything we want**.
 ---
 
 ## 5️⃣ Scarcity & Choice: The Link  
+
+- Without scarcity → no need for choices.  
+- The essence of economics = **rational decision-making under scarcity**.  
+
+---
+
+## ✅ 6. Conclusion  
+Economics is the **science of decision-making under scarcity**.  
+- It studies how scarce resources are **allocated among competing uses**.  
+- **Scarcity** is the fundamental problem, and **choice** is the way we resolve it.  
+
+---
+
+## 📝 Summary in One Line  
+> Economics is the study of how people make **choices** to use **scarce resources** in order to satisfy **unlimited wants**.  
+

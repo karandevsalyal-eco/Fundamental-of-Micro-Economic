@@ -2,7 +2,7 @@
 
 ---
 
-## 🔑 1. Opportunity Cost  
+##  1. Opportunity Cost  
 
 ### ✅ Definition  
 - **Opportunity cost** = the value of the **next best alternative forgone** when making a choice.  

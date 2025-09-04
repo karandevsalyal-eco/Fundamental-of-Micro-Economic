@@ -89,7 +89,7 @@
 ```mermaid
 flowchart TD
     A[Scarcity of Resources] --> B[Opportunity Cost]
-    A --> C[Production Possibilities Frontier (PPF)]
+    A --> C[Production Possibilities Frontier]
 
     B --> B1["Next Best Alternative Forgone"]
     B --> B2["Guides Decision-Making"]

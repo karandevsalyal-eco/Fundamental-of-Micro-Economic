@@ -8,7 +8,7 @@ This course introduces the **principles of microeconomics**, focusing on how ind
 
 ---
 
-## 🎯 Course Objectives  
+## 🎯 _Course Objectives_  
 By completing this course, students will be able to:  
 - 🔹 Understand **scarcity, opportunity cost, and trade-offs**  
 - 🔹 Analyze **supply, demand, and market equilibrium**  

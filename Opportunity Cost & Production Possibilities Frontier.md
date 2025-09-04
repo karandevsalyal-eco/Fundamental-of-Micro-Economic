@@ -101,4 +101,5 @@ flowchart TD
     C2 --> D[Efficiency & Inefficiency]
     B2 --> D
     C3 --> E[Economic Growth: Outward Shift]
+
 ```
